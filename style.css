@@ -24,7 +24,33 @@
 h1 {
   font-size: 30px;
 }
+
 /* header */
 #logo {
   width: 210px;
+}
+
+header {
+  background-image: url(img/pattern.png);
+  background-size: contain;
+  padding-top: 25px;
+}
+
+/* footer */
+#monitor {
+  background-image: url(img/monitor.jpg);
+}
+
+#graph {
+  background-image: url(img/graph.jpg);
+}
+
+.footer-img {
+  background-size: contain;
+  width: 200px;
+  height: 150px;
+  background-repeat: no-repeat;
+  color: white;
+  font-weight: bold;
+  text-align: center;
 }
