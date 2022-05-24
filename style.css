@@ -1,3 +1,8 @@
+/* reset */
+* {
+  box-sizing: border-box;
+}
+
 /* commons */
 .bg-blue {
   background-color: #4ea0ff;
@@ -23,6 +28,11 @@
 
 h1 {
   font-size: 30px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
 }
 
 /* header */
