@@ -1,7 +1,15 @@
 /* commons */
 .bg-blue {
   background-color: #4ea0ff;
+  color: #fff;
 }
+.bg-yellow {
+  background-color: rgb(238, 238, 108);
+}
+.bg-light-blue {
+  background-color: #82dbf7;
+}
+
 .text-gray {
   color: lightgray;
 }
